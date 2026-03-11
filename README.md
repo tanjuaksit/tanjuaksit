@@ -79,5 +79,8 @@ AI deneyleri
 **Donanım**
 
 IoT projeleri  
-embedded sistemler  
+Gömülü sistemler  
 elektronik prototipleme
+
+
+![Profile views](https://komarev.com/ghpvc/?username=tanjuaksit&color=blue)
