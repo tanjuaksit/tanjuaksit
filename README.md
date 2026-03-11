@@ -1,4 +1,4 @@
-# Tanju Aksit
+# Tanju Akşit
 
 Learning by building systems in software and hardware.
 
