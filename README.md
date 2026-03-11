@@ -1,16 +1,83 @@
-## Hi there 👋
+# Tanju Akşit
 
-<!--
-**tanjuaksit/tanjuaksit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building and experimenting with systems.
 
-Here are some ideas to get you started:
+Currently exploring areas like software architecture, automation tools, APIs and embedded electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my projects are experiments where I try to learn how different systems work together.
+
+Sometimes it's code.  
+Sometimes it's hardware.
+
+---
+
+## Things I work with
+
+**Languages**
+
+Python • C++ • Dart • HTML • CSS
+
+**Tools**
+
+Flutter • Git • Postman • REST APIs
+
+**Systems I'm exploring**
+
+automation tools  
+backend structures  
+AI related experiments
+
+**Hardware**
+
+IoT projects  
+embedded systems  
+electronics prototyping
+
+---
+
+## Interests
+
+- system design
+- automation
+- APIs and integrations
+- IoT and embedded development
+- experimental software
+
+---
+
+# Türkçe
+
+## Hakkımda
+
+Sistemler kurmayı ve yeni teknolojileri deneyerek öğrenmeyi seviyorum.
+
+Şu anda yazılım mimarileri, API kullanımı, otomasyon araçları ve gömülü sistemler üzerine çalışıyorum.
+
+Projelerimin çoğu farklı teknolojilerin birlikte nasıl çalıştığını anlamaya yönelik deneysel projelerdir.
+
+Bazen kodla başlar.  
+Bazen bir havya ile.
+
+---
+
+## Çalıştığım Alanlar
+
+**Diller**
+
+Python • C++ • Dart • HTML • CSS
+
+**Araçlar**
+
+Flutter • Git • Postman • REST API
+
+**Keşfettiğim Alanlar**
+
+otomasyon araçları  
+backend yapıları  
+AI deneyleri
+
+**Donanım**
+
+IoT projeleri  
+embedded sistemler  
+elektronik prototipleme
